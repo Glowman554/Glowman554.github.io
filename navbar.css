@@ -1,0 +1,23 @@
+.navbar {
+	background: #1f1f1f;
+}
+
+body {
+	margin:0;
+}
+
+.pages{
+    width:100%;
+    border-radius:1px;
+}
+
+.pbutton {
+    background-color: #1f1f1f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
