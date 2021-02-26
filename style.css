@@ -13,3 +13,9 @@ body {
     display: inline-block;
     font-size: 16px;
 }
+
+.importand {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
